@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vikas Singh Kushwaha</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vi1ka2&label=Profile%20views&color=0e75b6&style=flat" alt="vi1ka2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React ,Node.js**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **FullStack Dev** 
 
 - 📫 How to reach me **vikasthegreat2004@gmail.com**
 
